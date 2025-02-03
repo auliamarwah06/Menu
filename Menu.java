@@ -6,7 +6,7 @@ package tubesss;
 
 /**
  *
- * @author aulia marwah kandari
+ * @author Aulia Marwah K
  */
 abstract class Menu {
      protected String nama;
